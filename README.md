@@ -26,12 +26,35 @@ With this I wish you then lots of fun and success in learning.
 
 ### Solve Linear Set of Equations
 
-EN: This example shows how to solve symbolically and numerically linear systems of equations with Python.
+:uk: This example shows how to solve symbolically and numerically linear systems of equations with Python.
 
-<em>DE: In diesem Beispiel wird gezeigt wie man symbolisch und nummerisch lineare Gleichungssysteme mit Python lösen kann.</em>
+:de:
+<em>
+    In diesem Beispiel wird gezeigt wie man symbolisch und nummerisch lineare Gleichungssysteme mit Python lösen kann.
+</em><br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/debug_initial?labpath=Mathematics_SolveLinearSetOfEquations%2FSolveLinearSetOfEquations_de.ipynb)
 
 ## Electric and Magnetic Fields
+
 ### Vector Field Visualisation
+
+:uk: This script introduces different ways to display a vector field in a 2D slice plane.
+
+:de:
+<em>
+    In diesem Script werden verschiedene Möglichkeiten vorgestellt ein Vektorfeld in einer 2D-Schnittebene darzustellen.
+</em><br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/debug_initial?labpath=ElectricMagneticFields_VectorFieldVisualisation%2FVectorFieldVisualisation_de.ipynb)
+
 ## Network Analysis
+
 ### Complex Circuit Analysis
+
+:uk: In this example, the complex AC calculation is shown using a simple example network. A comparison is made between the extensive calculation in the time domain and the simplified calculation in the image domain.
+
+:de:
+<em>
+    In diesem Beispiel wird die komplexe Wechselstromrechnung anhand eines einfachen Beispielnetzwerks gezeigt. Es wird hierbei verglichen zwischen der aufwendigen Berechnung im Zeitbereich und er vereinfachten Rechnung im Bildbereich.
+</em><br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/debug_initial?labpath=NetworkAnalysis_ComplexCircuitAnalysis%2FComplexCircuitAnalysis_de.ipynb)
 
