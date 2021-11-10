@@ -1,0 +1,10 @@
+name: mycondaenv
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - pip
+  - pip:
+    - lic
