@@ -32,7 +32,7 @@ With this I wish you then lots of fun and success in learning.
 <em>
     In diesem Beispiel wird gezeigt wie man symbolisch und nummerisch lineare Gleichungssysteme mit Python lösen kann.
 </em><br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/debug_initial?labpath=Mathematics_SolveLinearSetOfEquations%2FSolveLinearSetOfEquations_de.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/main?labpath=Mathematics_SolveLinearSetOfEquations%2FSolveLinearSetOfEquations_de.ipynb)
 
 ## Electric and Magnetic Fields
 
@@ -44,7 +44,7 @@ With this I wish you then lots of fun and success in learning.
 <em>
     In diesem Script werden verschiedene Möglichkeiten vorgestellt ein Vektorfeld in einer 2D-Schnittebene darzustellen.
 </em><br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/debug_initial?labpath=ElectricMagneticFields_VectorFieldVisualisation%2FVectorFieldVisualisation_de.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/main?labpath=ElectricMagneticFields_VectorFieldVisualisation%2FVectorFieldVisualisation_de.ipynb)
 
 ## Network Analysis
 
@@ -56,5 +56,5 @@ With this I wish you then lots of fun and success in learning.
 <em>
     In diesem Beispiel wird die komplexe Wechselstromrechnung anhand eines einfachen Beispielnetzwerks gezeigt. Es wird hierbei verglichen zwischen der aufwendigen Berechnung im Zeitbereich und er vereinfachten Rechnung im Bildbereich.
 </em><br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/debug_initial?labpath=NetworkAnalysis_ComplexCircuitAnalysis%2FComplexCircuitAnalysis_de.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JTSvejda/Jupyter_Notebooks_for_Education/main?labpath=NetworkAnalysis_ComplexCircuitAnalysis%2FComplexCircuitAnalysis_de.ipynb)
 
